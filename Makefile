@@ -1,6 +1,6 @@
 # node镜像的版本
 # 更多版本 https://hub.docker.com/_/node
-NODE_VERSION=registry.cn-beijing.aliyuncs.com/rdisme/node:14.3.1
+NODE_VERSION=registry.cn-beijing.aliyuncs.com/rdisme/node:14.3.2
 # 容器名称，用于防止多容器名字冲突
 CONTAINER_NAME=mynode
 # 需要挂载的本地目录
